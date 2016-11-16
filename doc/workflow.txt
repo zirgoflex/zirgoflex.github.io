@@ -1,0 +1,7 @@
+git clone https://github.com/toliwaga/zirgoflex.github.io.git ./zirgoflex
+
+
+git pull origin master
+
+git commit -m "add blog"
+git push
