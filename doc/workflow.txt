@@ -1,5 +1,7 @@
 git clone https://github.com/toliwaga/zirgoflex.github.io.git ./zirgoflex
 
+git clone https://github.com/jekyll/minima.git ./minima
+
 
 git pull origin master
 
