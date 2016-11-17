@@ -2,6 +2,8 @@
 layout: post
 title: "Apple Crumble"
 date: 2016-11-16
+tags:
+- recipe
 ---
 ## Ingredients
 

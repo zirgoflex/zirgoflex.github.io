@@ -5,5 +5,10 @@ git clone https://github.com/jekyll/minima.git ./minima
 
 git pull origin master
 
+
+bundle exec jekyll serve
+
+
+
 git commit -m "add blog"
 git push
